@@ -1,0 +1,3 @@
+[submodule "emotion-prediction"]
+	path = emotion-prediction
+	url = https://github.com/kashmala-mahsud/emotion-prediction
