@@ -1,3 +1,6 @@
 [submodule "emotion-prediction"]
 	path = emotion-prediction
 	url = https://github.com/kashmala-mahsud/emotion-prediction
+[submodule "Loan-Prediction-App"]
+	path = Loan-Prediction-App
+	url = https://github.com/kashmala-mahsud/Loan-Prediction-App
