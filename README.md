@@ -70,12 +70,6 @@ git submodule update --init --recursive
 
 ---
 
-## 🖼️ UI Screenshots
-
-> *(Add UI screenshots from Streamlit apps to showcase model inputs/outputs)*
-
----
-
 ## 🙋 About the Author
 
 **Kashmala Mahsud**
