@@ -1,4 +1,4 @@
-🤖 ML Model Collection
+# 🤖 ML Model Collection
 
 A curated collection of beginner to intermediate-level Machine Learning projects built with Python, scikit-learn, and Streamlit. This repository includes:
 
@@ -6,35 +6,35 @@ A curated collection of beginner to intermediate-level Machine Learning projects
 * 🏦 Loan Prediction App
 * 😄 Emotion Prediction
 
-All projects are designed to be modular, reproducible, and beginner-friendly, complete with notebooks, trained models, and UI deployment.
+All projects are modular, reproducible, and beginner-friendly — complete with Jupyter notebooks, trained models, requirements, and deployable Streamlit UIs.
 
 ---
 
-## 📂 Projects Overview
+## 📁 Projects Overview
 
-### 1. 💓 Heart Disease Prediction
+### 💓 1. Heart Disease Prediction
 
-Predicts the likelihood of heart disease based on 13 key medical inputs using a **Logistic Regression** model and a deployed **Streamlit** app.
+Predicts the likelihood of heart disease using 13 health-related features and a trained **Logistic Regression** model.
 
-🔗 [Project Folder](./heart-disease-prediction)
+🔗 **Project Folder**: [`heart-disease-prediction`](https://github.com/kashmala-mahsud/ml-model-collection/tree/main/heart-disease-prediction)
 
-### 2. 🏦 Loan Prediction App
+### 🏦 2. Loan Prediction App
 
-Classifies whether a loan should be approved or not using customer details like income, credit history, etc. Trained using **Random Forest** and deployed using Streamlit.
+Determines loan approval status based on income, dependents, education, and credit history using a **Random Forest** model.
 
-🔗 [Project Submodule](./Loan-Prediction-App)
+🔗 **Project Submodule**: [`Loan-Prediction-App`](https://github.com/kashmala-mahsud/Loan-Prediction-App)
 
-### 3. 😄 Emotion Prediction
+### 😄 3. Emotion Prediction
 
-Classifies the emotional tone of a given sentence into categories like *joy*, *sadness*, *anger*, and *fear* using NLP preprocessing and **Multinomial Naive Bayes**.
+Classifies emotions like *joy*, *sadness*, *anger*, and *fear* using NLP techniques and a **Multinomial Naive Bayes** model.
 
-🔗 [Project Submodule](./emotion-prediction)
+🔗 **Project Submodule**: [`emotion-prediction`](https://github.com/kashmala-mahsud/emotion-prediction)
 
 ---
 
-## 🧪 Tech Stack
+## 🛠 Tech Stack
 
-* Python 3.x
+* Python 3.10+
 * scikit-learn
 * pandas, numpy
 * joblib / pickle
@@ -43,26 +43,18 @@ Classifies the emotional tone of a given sentence into categories like *joy*, *s
 
 ---
 
-## 🚀 How to Use
+## 🚀 How to Run Projects
 
 ```bash
-# Clone this repository
-git clone https://github.com/kashmala-mahsud/ml-model-collection.git
+# Clone the repository
+https://github.com/kashmala-mahsud/ml-model-collection.git
 cd ml-model-collection
 
-# Navigate to any project folder
+# For individual projects
 cd heart-disease-prediction
-
-# Install dependencies
 pip install -r requirements.txt
-
-# Run the Streamlit app
 streamlit run app.py
 ```
-
----
-
-## 🔗 Submodule Setup (if cloning with submodules)
 
 If using submodules:
 
@@ -78,8 +70,15 @@ git submodule update --init --recursive
 
 ---
 
-## 👩‍💻 Author
+## 🖼️ UI Screenshots
+
+> *(Add UI screenshots from Streamlit apps to showcase model inputs/outputs)*
+
+---
+
+## 🙋 About the Author
 
 **Kashmala Mahsud**
-📎 [GitHub](https://github.com/kashmala-mahsud)
+🎓 AI & Data Science Enthusiast
+🔗 [GitHub Profile](https://github.com/kashmala-mahsud)
 
