@@ -16,7 +16,7 @@ All projects are modular, reproducible, and beginner-friendly — complete with 
 
 Predicts the likelihood of heart disease using 13 health-related features and a trained **Logistic Regression** model.
 
-🔗 **Project Folder**: [`heart-disease-prediction`](https://github.com/kashmala-mahsud/ml-model-collection/tree/main/heart-disease-prediction)
+🔗 **Project Folder**: [`heart-disease-prediction`](https://github.com/kashmala-mahsud/ml-model-collection/tree/main/ml-heart-disease))
 
 ### 🏦 2. Loan Prediction App
 
